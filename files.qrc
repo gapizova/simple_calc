@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>C:\Users\kat15\PycharmProjects\simple_calc\icon\calculate_black_24dp.svg</file>
+    <file>C:\Users\kat15\PycharmProjects\simple_calc\icon\backspace_white_24dp.svg</file>
+  </qresource>
+</RCC>
